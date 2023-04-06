@@ -1,5 +1,5 @@
 function hola () { 
 
-    alert('Hola pendejos');
+    alert('Hola pendejos 2');
     
 }
